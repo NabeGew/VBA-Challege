@@ -38,7 +38,6 @@ Sub Easy_Stock()
      
 End Sub
 
-
 Sub Moderate_Stock()
     ' LOOP THROUGH ALL SHEETS
     ' --------------------------------------------
@@ -118,7 +117,7 @@ Dim WS As Worksheet
             End If
         Next j
        
-        
+       
     Next WS
         
 End Sub
